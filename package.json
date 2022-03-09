@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ZhukovAnd/site/issues"
   },
-  "homepage": "https://github.com/ZhukovAnd/site#readme"
+  "homepage": "https://github.com/ZhukovAnd/site#readme",
+  "dependencies": {
+    "telegram": "^2.5.3"
+  }
 }
