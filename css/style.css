@@ -1,0 +1,46 @@
+body{
+    padding: 0;
+    margin: 0;    
+}
+
+.glavn {
+    position: relative;
+    }
+
+.cont img {
+    width: 100%;
+    
+}
+
+.cont:after {
+    content: '';
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0; left: 0;
+    background-color: rgba(0,0,0,0.5);
+  }
+
+
+    
+    .txt-img {
+    position: absolute;
+    top: 50%;
+    left: 35%;
+    text-transform: uppercase;
+    color: white;
+    width: 350px;
+    background: transparent;
+    /* background: #00000094; */
+    padding: 10px;
+    text-align: center;  
+    font: bold 24px/34px Helvetica, Sans-Serif;
+    
+    }
+
+    .txt-img a{
+        text-decoration: none;
+        color: white;
+        text-transform: uppercase;
+        background: transparent;
+    }
