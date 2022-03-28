@@ -26,8 +26,8 @@ body{
     
     .txt-img {
     position: absolute;
-    top: 50%;
-    left: 35%;
+    top: 10%;
+    left: 30%;
     text-transform: uppercase;
     color: white;
     width: 350px;
@@ -39,6 +39,7 @@ body{
     
     }
 
+        
     .txt-img a{
         text-decoration: none;
         color: white;
